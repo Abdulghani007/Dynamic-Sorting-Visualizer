@@ -4,4 +4,4 @@
 
 Tools & Technologies – C++, OpenGL, GLUT.
 
-! [landing page](./Dynamic-Sorting-Visualizer/snapshots/landing_page.jpeg)
+![landing page](./Dynamic-Sorting-Visualizer/snapshots/landing_page.jpeg)
