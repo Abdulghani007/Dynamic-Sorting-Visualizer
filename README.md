@@ -4,4 +4,5 @@
 
 Tools & Technologies – C++, OpenGL, GLUT.
 
+# Landing page
 ![landing page](./snapshots/landing_page.jpeg)
