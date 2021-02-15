@@ -6,3 +6,14 @@ Tools & Technologies – C++, OpenGL, GLUT.
 
 # Landing page
 ![landing page](./snapshots/landing_page.jpeg)
+
+# Before sorting
+![before sorting](./snapshots/before_sorting.jpeg)
+
+# Sorting
+![sorting](./snapshots/bubble_sort.jpeg)
+
+# After sorting
+![after sorting](./snapshots/after_sorting.jpeg)
+
+
