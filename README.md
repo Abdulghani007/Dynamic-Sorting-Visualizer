@@ -3,3 +3,5 @@
 * Sorting algorithms visualized - Bubble sort, Insertion Sort, Selection sort, Ripple sort (variation of Bubble sort)
 
 Tools & Technologies – C++, OpenGL, GLUT.
+
+! [landing page](./Dynamic-Sorting-Visualizer/snapshots/landing_page.jpeg)
